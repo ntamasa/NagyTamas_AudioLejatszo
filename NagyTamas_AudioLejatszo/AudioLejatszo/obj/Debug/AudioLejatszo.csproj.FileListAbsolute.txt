@@ -1,0 +1,15 @@
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\bin\Debug\AudioLejatszo.exe.config
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\bin\Debug\AudioLejatszo.exe
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\bin\Debug\AudioLejatszo.pdb
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.csprojAssemblyReference.cache
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\MainWindow.g.cs
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\App.g.cs
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo_MarkupCompile.cache
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo_MarkupCompile.lref
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\MainWindow.baml
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.g.resources
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.Properties.Resources.resources
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.csproj.GenerateResource.cache
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.csproj.CoreCompileInputs.cache
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.exe
+D:\Suli\Komplex_programozas\PapSandorDaniel_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.pdb
